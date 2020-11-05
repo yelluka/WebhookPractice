@@ -1,4 +1,0 @@
-This is second text file
-Updated changes in branch-1 by Ramakrishna
-Updated change in branch-1 by Venkat
-Latest changes by RK.
